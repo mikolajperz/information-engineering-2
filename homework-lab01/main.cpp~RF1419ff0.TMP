@@ -58,39 +58,6 @@ public:
 
 };
 
-class Complex{
-private:
-    float real = 0;
-    float imaginary = 0;
-public:
-    Complex(float re, float im){
-        real = re;
-        imaginary = im;
-    };
-    float read_re(){
-        return real;
-    }
-    float read_im(){
-        return imaginary;
-    }
-    void set_re(float new_re){
-        real = new_re;
-    }
-    void set_im(float new_im){
-        imaginary = new_im;
-    }
-    void print(){
-        cout << real;
-        if(imaginary > 0)
-            cout << "+";
-        cout << imaginary << "i" << endl;
-    }
-    void add(Complex a){
-        real = real + a.real;
-        imaginary = imaginary + a.imaginary;
-    }
-};
-
 int main()
 {
     Student student1;
@@ -107,9 +74,5 @@ int main()
     student1.mean();
     student1.summary();
     cout << student1.if_passed() << endl;
-    Complex b(4, 3);
-    Complex c(5, -5);
-    b.add(c);
-    b.print();
     return 0;
 }
