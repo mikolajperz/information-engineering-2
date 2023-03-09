@@ -1,0 +1,25 @@
+# ninja log v5
+0	610	7000839638634816	CMakeFiles/homework-lab01.dir/main.cpp.obj	d22e862f8aec8bd1
+613	806	7000839640548297	homework-lab01.exe	e001975f63c0e123
+5	644	7000840635125486	CMakeFiles/homework-lab01.dir/main.cpp.obj	d22e862f8aec8bd1
+645	798	7000840636607232	homework-lab01.exe	e001975f63c0e123
+3	750	7000841234997735	CMakeFiles/homework-lab01.dir/main.cpp.obj	d22e862f8aec8bd1
+752	916	7000841236445234	homework-lab01.exe	e001975f63c0e123
+5	750	7000841657089817	CMakeFiles/homework-lab01.dir/main.cpp.obj	d22e862f8aec8bd1
+752	901	7000841658407782	homework-lab01.exe	e001975f63c0e123
+3	802	7000842004316760	CMakeFiles/homework-lab01.dir/main.cpp.obj	d22e862f8aec8bd1
+804	967	7000842005871266	homework-lab01.exe	e001975f63c0e123
+3	739	7000842857866092	CMakeFiles/homework-lab01.dir/main.cpp.obj	d22e862f8aec8bd1
+740	913	7000842859453264	homework-lab01.exe	e001975f63c0e123
+3	737	7000843014573787	CMakeFiles/homework-lab01.dir/main.cpp.obj	d22e862f8aec8bd1
+739	885	7000843016014496	homework-lab01.exe	e001975f63c0e123
+4	682	7000843193935434	CMakeFiles/homework-lab01.dir/main.cpp.obj	d22e862f8aec8bd1
+683	837	7000843195421510	homework-lab01.exe	e001975f63c0e123
+2	756	7000843321885308	CMakeFiles/homework-lab01.dir/main.cpp.obj	d22e862f8aec8bd1
+758	910	7000843323216488	homework-lab01.exe	e001975f63c0e123
+4	759	7000843746112909	CMakeFiles/homework-lab01.dir/main.cpp.obj	d22e862f8aec8bd1
+761	906	7000843747504389	homework-lab01.exe	e001975f63c0e123
+4	657	7000843864542251	CMakeFiles/homework-lab01.dir/main.cpp.obj	d22e862f8aec8bd1
+659	814	7000843866002967	homework-lab01.exe	e001975f63c0e123
+3	691	7000843936200834	CMakeFiles/homework-lab01.dir/main.cpp.obj	d22e862f8aec8bd1
+693	845	7000843937665224	homework-lab01.exe	e001975f63c0e123

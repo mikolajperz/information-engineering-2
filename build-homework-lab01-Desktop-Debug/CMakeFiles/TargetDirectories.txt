@@ -1,0 +1,7 @@
+C:/Users/OOO/OneDrive/Dokumenty/GitHub/information-engineering-2/build-homework-lab01-Desktop-Debug/CMakeFiles/homework-lab01.dir
+C:/Users/OOO/OneDrive/Dokumenty/GitHub/information-engineering-2/build-homework-lab01-Desktop-Debug/CMakeFiles/edit_cache.dir
+C:/Users/OOO/OneDrive/Dokumenty/GitHub/information-engineering-2/build-homework-lab01-Desktop-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/OOO/OneDrive/Dokumenty/GitHub/information-engineering-2/build-homework-lab01-Desktop-Debug/CMakeFiles/list_install_components.dir
+C:/Users/OOO/OneDrive/Dokumenty/GitHub/information-engineering-2/build-homework-lab01-Desktop-Debug/CMakeFiles/install.dir
+C:/Users/OOO/OneDrive/Dokumenty/GitHub/information-engineering-2/build-homework-lab01-Desktop-Debug/CMakeFiles/install/local.dir
+C:/Users/OOO/OneDrive/Dokumenty/GitHub/information-engineering-2/build-homework-lab01-Desktop-Debug/CMakeFiles/install/strip.dir
